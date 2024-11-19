@@ -105,7 +105,7 @@ const blind75Questions = [
     "Sum of Two Integers"
 ];
 
-let currentQuestionIndex = 2;
+let currentQuestionIndex = 3;
 
 // Function to schedule the daily reminder
 function scheduleLeetCodeReminder() {
